@@ -1,0 +1,37 @@
+# print("hello")
+# print(123)
+# print(1+2)
+# print("1+2")
+# print("hello",end=" ")
+# print("vrundha")
+# print("how", "are"," you?",sep="12")
+# # a=2
+# b=3
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(a/b)
+# print(a%b)
+# print(a//b)
+#print(5**2)
+#a=input()
+#print(a)
+#print(type(a))
+#print(type(a))
+s='0123456789'
+a=s[0]
+b=s[7]
+c=s[4]
+d=int(s[1])
+e=int(s[2])
+f=int(s[3])
+print(type(a))
+print(a)
+print(b)
+print(c)
+print(a+b+c)
+print("1"+"3"+"6")
+print(d)
+print(e)
+print(f)
+print(d+e+f)
